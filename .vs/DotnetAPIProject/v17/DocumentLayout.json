@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (2)\\DotNetAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\services\\interfaces\\ioxforddictionaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:services\\interfaces\\ioxforddictionaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\services\\implementations\\oxforddictionaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:services\\implementations\\oxforddictionaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\models\\dtos\\oxforddictionarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:models\\dtos\\oxforddictionarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\controllers\\oxforddictionarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:controllers\\oxforddictionarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\models\\entities\\oxforddictionaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:models\\entities\\oxforddictionaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\controllers\\dictionarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:controllers\\dictionarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\controllers\\workspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:controllers\\workspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\services\\implementations\\workspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:services\\implementations\\workspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\dotnetapiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:dotnetapiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\services\\implementations\\dictionaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:services\\implementations\\dictionaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\models\\dtos\\dictionaryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:models\\dtos\\dictionaryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\models\\entities\\dictionaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:models\\entities\\dictionaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\models\\entities\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:models\\entities\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|d:\\new folder (2)\\dotnetapi\\models\\dtos\\workspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6684F3CC-2401-4B60-B397-292FCB1AA7A8}|DotnetAPIProject.csproj|solutionrelative:models\\dtos\\workspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DotnetAPIProject.http",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\DotnetAPIProject.http",
+              "RelativeDocumentMoniker": "DotnetAPIProject.http",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\DotnetAPIProject.http",
+              "RelativeToolTip": "DotnetAPIProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-17T07:27:39.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DictionaryService.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Services\\Implementations\\DictionaryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\DictionaryService.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Services\\Implementations\\DictionaryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\DictionaryService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:55:05.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkspaceService.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Services\\Implementations\\WorkspaceService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\WorkspaceService.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Services\\Implementations\\WorkspaceService.cs",
+              "RelativeToolTip": "Services\\Implementations\\WorkspaceService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:49:10.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:47:31.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkspaceController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Controllers\\WorkspaceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkspaceController.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Controllers\\WorkspaceController.cs",
+              "RelativeToolTip": "Controllers\\WorkspaceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:45:43.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DictionaryController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Controllers\\DictionaryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DictionaryController.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Controllers\\DictionaryController.cs",
+              "RelativeToolTip": "Controllers\\DictionaryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:59:24.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DictionaryItemDto.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Models\\DTOs\\DictionaryItemDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\DictionaryItemDto.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Models\\DTOs\\DictionaryItemDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\DictionaryItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:59:22.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T15:52:29.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAiwJcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:45:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OxfordDictionaryController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Controllers\\OxfordDictionaryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OxfordDictionaryController.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Controllers\\OxfordDictionaryController.cs",
+              "RelativeToolTip": "Controllers\\OxfordDictionaryController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:44:11.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorkspaceDto.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Models\\DTOs\\WorkspaceDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\WorkspaceDto.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Models\\DTOs\\WorkspaceDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\WorkspaceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:33:29.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OxfordDictionaryDto.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Models\\DTOs\\OxfordDictionaryDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\OxfordDictionaryDto.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Models\\DTOs\\OxfordDictionaryDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\OxfordDictionaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:33:24.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOxfordDictionaryService.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Services\\Interfaces\\IOxfordDictionaryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IOxfordDictionaryService.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Services\\Interfaces\\IOxfordDictionaryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IOxfordDictionaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:31:54.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OxfordDictionaryService.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Services\\Implementations\\OxfordDictionaryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\OxfordDictionaryService.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Services\\Implementations\\OxfordDictionaryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\OxfordDictionaryService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:31:43.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OxfordDictionaryResponse.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Models\\Entities\\OxfordDictionaryResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\OxfordDictionaryResponse.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Models\\Entities\\OxfordDictionaryResponse.cs",
+              "RelativeToolTip": "Models\\Entities\\OxfordDictionaryResponse.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:29:43.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Workspace.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Models\\Entities\\Workspace.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Workspace.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Models\\Entities\\Workspace.cs",
+              "RelativeToolTip": "Models\\Entities\\Workspace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:24:30.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DictionaryItem.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\DotNetAPI\\Models\\Entities\\DictionaryItem.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\DictionaryItem.cs",
+              "ToolTip": "D:\\New folder (2)\\DotNetAPI\\Models\\Entities\\DictionaryItem.cs",
+              "RelativeToolTip": "Models\\Entities\\DictionaryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:24:01.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
